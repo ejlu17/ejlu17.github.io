@@ -37,8 +37,8 @@ class Main extends React.Component {
           </p>
           <p>
           My name is Erica Lu, and I am a second year student at Northeastern University. 
-          Currently, I am pursuing a bioengineering degree with a double minor in business 
-          and law. 
+          Currently, I am pursuing a Bioengineering degree with minors in Business Administration
+          and Law & Public Policy. 
           </p>
           <p>
           I aim to achieve my interests in product development, consulting, marketing communications, 
@@ -47,15 +47,15 @@ class Main extends React.Component {
           </p>
           <p>
           As of now, I am involved in various activities such as Phi Sigma Rho Engineering Sorority, 
-          Society of Asian Scientists and Engineers, Biomedical Engineering Society, and Consulting and Advisory 
+          Society of Asian Scientists and Engineers, Biomedical Engineering Society, and Consulting & Advisory 
           Student Experience. 
           </p>
           <p>
-          In my free time, I enjoy reading at cafes, cooking fusion dishes, upcyling clothing pieces, 
+          In my free time, I enjoy reading at cafes, cooking asian fusion dishes, upcyling clothing pieces, 
           watching professional soccer, and playing the piano.
           </p>
           <p>
-          Here is my possibly up-to-date{' '}
+          Here is my up-to-date{' '}
           <a href="https://drive.google.com/file/d/1AaIXiuT-rO1AzDXss3fEJ_4q33E0UD1e/view?usp=sharing">resume</a>.
           </p>
           {close}
@@ -87,7 +87,7 @@ class Main extends React.Component {
             2021{' '}
           <a href="https://drive.google.com/file/d/10-gHGadO-fpdN7go5-ruR6RImBhoIwUm/view?usp=sharing">Autonomous Testing Agent Project</a>, 
           Cornerstone of Engineering II - (1) Brainstormed technical solutions for shortages brought on by COVID-19 in a team of four; 
-          (2) Utilized knowledge in basic ciruitry, AutoCAD, and C++ to successfully create an autonomous rapid test bot for consumers to easily use
+          (2) Utilized knowledge in basic circuitry, AutoCAD, and C++ to successfully create an autonomous rapid test bot for consumers to easily use
           </p>
           <p>
             2020{' '}
@@ -97,7 +97,7 @@ class Main extends React.Component {
           </p>
           <p>
             2019 Website Design,{' '}
-          <a href="https://www.karmatrade.shop/">Karma Trade</a> - (1) Utilized WordPress in a team of two to design a UI optimized website 
+          <a href="https://www.karmatrade.shop/">Style 360</a> - (1) Utilized WordPress in a team of two to design a UI optimized website 
             that encourages organic traffic; (2) Developed a visual-heavy immersive web format to increase consumer 
             interaction
           </p>
@@ -129,6 +129,10 @@ class Main extends React.Component {
           <p>
           {' '}
           <a href="https://www.northeastern.edu/bmes/">Biomedical Engineering Society</a>, Member
+          </p>
+          <p>
+          {' '}
+          <a href="https://www.northeastern.edu/swe/">Society of Women Engineers</a>, Member
           </p>
           <p>
             {' '}
